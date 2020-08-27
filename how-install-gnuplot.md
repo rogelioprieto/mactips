@@ -1,15 +1,18 @@
-# Problem:
+# Install gnuplot in macOS (mac OS X)
+
+## Problem:
 How to install gnuplot in mac because isn't an "automatic" installer (dmg file).
 
-# Solution:
-Install gnuplot using the terminal (command line).
+## Solution:
+Install gnuplot using the Terminal (command line) app.
 
-# About the App:
+### About the App:
 *App name:* gnuplot  
 *App description:* Command-driven interactive function plotting  
 *App website:* http://www.gnuplot.info  
 
-# Steps to install the App
+
+## Step by step:
 
 1. Press ```Command+Space``` and type ```Terminal``` and press ```enter/return``` key.
 2. Run in ```Terminal``` app:
