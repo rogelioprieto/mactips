@@ -6,9 +6,9 @@ Install gnuplot using the terminal (command line).
 
 # General app information:
 About the App
-*App name:* gnuplot
-*App description:* Command-driven interactive function plotting
-*App website:* http://www.gnuplot.info
+*App name:* gnuplot  
+*App description:* Command-driven interactive function plotting  
+*App website:* http://www.gnuplot.info  
 
 # Steps to install the App
 
