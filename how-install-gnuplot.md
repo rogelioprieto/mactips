@@ -31,7 +31,9 @@ Done! You can now use gnuplot.
 ```bash
 gnuplot
 ```
-It will appears gnuplot prompt: ```gnuplot>```. Now you can make a graphic:
+It will appears gnuplot prompt: ```gnuplot>```. 
+
+5. Now you can make a graphic:
 ```bash
 plot sin(x)
 ```
