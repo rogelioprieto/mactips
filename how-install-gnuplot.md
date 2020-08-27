@@ -41,6 +41,5 @@ It will appears gnuplot prompt: ```gnuplot>```.
 plot sin(x)
 ```
 
-Source:
-
+Source:  
 <http://macappstore.org/gnuplot/>
